@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int main()
+int main()//another comment from repository 2 (machine 2)
 {
 cout <<"git, lets go" << endl;
 cout <<"added line 1" <<endl;
